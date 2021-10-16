@@ -1,4 +1,4 @@
-# webscrapping_project
+# Web Scrapping
 ## AIM of the project
 
 * To provide a list of cottages in France from a popular website in **CSV** format which includes:-
