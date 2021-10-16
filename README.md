@@ -16,7 +16,7 @@
     
 ### Libraries Used
 * [Requests](https://docs.python-requests.org/en/v0.8.2/)
-* BeautifulSoup
-* Pandas
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [Pandas](https://pandas.pydata.org/docs/index.html)
 
 
