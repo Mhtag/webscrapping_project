@@ -14,7 +14,12 @@
 
 * Extract name, price, bedrooms, sleeps and rating of all the cottage from single webpage.
 * Then we will Paginate through all of the webpages and extract all the required information from each page.
-* [Then will save the data in csv format by using pandas library.](https://github.com/Mhtag/webscrapping_project/blob/main/holiday_homes.csv) - 
+* [Then will save the data in csv format by using pandas library.](https://github.com/Mhtag/webscrapping_project/blob/main/holiday_homes.csv)
+
+## UseCase
+
+    * Giving information to potential clients of various cottages, who are planning for holidays.
+    * can be used by a new Buisness owner who is looking to get into the field of tourism.
     
 ### Libraries Used
 
