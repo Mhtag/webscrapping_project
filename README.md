@@ -19,7 +19,7 @@
 ## UseCase
 
     * Giving information to potential clients of various cottages, who are planning for holidays.
-    * can be used by a new Buisness owner who is looking to get into the field of tourism.
+    * Provide information to a new Buisness owner who is looking to get into the field of tourism.
     
 ### Libraries Used
 
