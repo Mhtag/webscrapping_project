@@ -27,13 +27,13 @@ Some of the main use case of Webscrapping is Price monitoring, News Gathering, d
 * Then we will Paginate through all of the webpages and extract all the required information from each page.
 * [Then will save the data in csv format by using pandas library.](https://github.com/Mhtag/webscrapping_project/blob/main/holiday_homes.csv).
 
-# UseCase
+# Use Cases
     * Providing quick information to potential clients of various cottages, who are planning for holidays.
     * Provide information to a new Buisness owner and competitor looking to get into the field of tourism.
     
-# Limitation of WebScraping
-    * Prior to Scraping website we should check if a website allows to be scrape or not by using **/robots.txt**,
-    suppose if we want to look at google if it allows it to be scraped or not then we will use **www.google.com/robots.txt**.
+# Limitations of WebScraping
+    * Prior to Scraping website we should check if a website allows to be scrape or not by using /robots.txt,
+    suppose if we want to look at google if it allows it to be scraped or not then we will use www.google.com/robots.txt 
     * Another limitation is that if you provide to much requests at bulk, then website might get slow and the website admin might
     block your IP address from acessing the website.
     
