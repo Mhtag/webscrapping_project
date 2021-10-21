@@ -17,8 +17,8 @@
 # What is Web Scraping?
 WebScraping is the technique from which we can extract data from webpage in automatic by sending a requests to that website.
 The data we will get is unstructured data with html content and for cleaning that data we can use BeautifulSoup library.
-there are other ways we can use 
-Some of the main use case of Webscrapping is Price monitoring, News Gathering,  
+there are other ways we can get data is through APIs.
+Some of the main use case of Webscrapping is Price monitoring, News Gathering, data collection phase of Machine learning etc.
 
 ## Work Flow
 * Make requests to the website using get() method from the requests library.
@@ -28,8 +28,8 @@ Some of the main use case of Webscrapping is Price monitoring, News Gathering,
 * [Then will save the data in csv format by using pandas library.](https://github.com/Mhtag/webscrapping_project/blob/main/holiday_homes.csv).
 
 # UseCase
-    * Giving information to potential clients of various cottages, who are planning for holidays.
-    * Provide information to a new Buisness owner who is looking to get into the field of tourism.
+    * Providing quick information to potential clients of various cottages, who are planning for holidays.
+    * Provide information to a new Buisness owner and competitor looking to get into the field of tourism.
     
 # Limitation of WebScraping
     * Prior to Scraping website we should check if a website allows to be scrape or not by using **/robots.txt**,
